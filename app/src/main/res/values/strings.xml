@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="equals">Равно?</string>
+    <string name="text_view_text">Пожелание Деду Морозу</string>
+    <string name="edit_text_hint">Напиши своё пожелание</string>
+    <string name="button_hint">Нажми на кнопочку</string>
+    <string name="button_text">Отправить пожелание</string>
+    <string name="switch_text">В этом году ты себя хорошо вёл?</string>
+    <string name="check_box_hint">Поставь галочку</string>
+    <string name="check_box_tet">Ты хочешь новый Android?</string>
+    <string name="togglebutton_text">ToggleButton</string>
+    <string name="togglebutton_textOff">Что-то пошло не так</string>
+    <string name="togglebutton_textOn">Ищи подарок под ёлкой</string>
+    <string name="some_text1">Просто любой текст</string>
+    <string name="person_name">Это PersonName</string>
+    <string name="_3_14">3.14</string>
+    <string name="phone_number">+79008007000</string>
+    <string name="some_email">life@is.good</string>
+    <string name="some_date">2021.03.17</string>
+    <string name="some_time">21:21:21</string>
+</resources>
